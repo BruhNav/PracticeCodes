@@ -1,0 +1,50 @@
+{
+	// Use IntelliSense to learn about possible attributes.
+	// Hover to view descriptions of existing attributes.
+	// For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "java",
+			"name": "Launch test",
+			"request": "launch",
+			"mainClass": "test",
+			"projectName": "demo_72e61fdc"
+		},
+		{
+			"type": "java",
+			"name": "Launch Add",
+			"request": "launch",
+			"mainClass": "Add",
+			"projectName": "demo_72e61fdc"
+		},
+		{
+			"type": "java",
+			"name": "Launch First",
+			"request": "launch",
+			"mainClass": "First",
+			"projectName": "demo_72e61fdc"
+		},
+		{
+			"name": "g++ - Build and debug active file",
+			"type": "cppdbg",
+			"request": "launch",
+			"program": "${fileDirname}/${fileBasenameNoExtension}",
+			"args": [],
+			"stopAtEntry": false,
+			"cwd": "${workspaceFolder}",
+			"environment": [],
+			"externalConsole": false,
+			"MIMode": "gdb",
+			"setupCommands": [
+				{
+					"description": "Enable pretty-printing for gdb",
+					"text": "-enable-pretty-printing",
+					"ignoreFailures": true
+				}
+			],
+			"preLaunchTask": "C/C++: g++ build active file",
+			"miDebuggerPath": "/usr/bin/gdb"
+		}
+	]
+}
