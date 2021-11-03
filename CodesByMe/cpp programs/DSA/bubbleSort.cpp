@@ -15,10 +15,12 @@ int main()
 	for(int i=0; i<n;i++){
 		cin>>arr[i];
 	}
-	for(int j=0;j<n;j++)
+
+	int j=1;
+	while(j<n)
 	{
-		for(int i=0; i<n-1-j ;i++){
-			if (arr[i]>arr[i-1])
+		for(int i=0; i<n-j ;i++){
+			if (arr[i]>arr[i+1])
 			{
 				int swap=arr[i];
 				arr[i]=arr[i+1];
@@ -26,6 +28,7 @@ int main()
 			}
 
 		}
+		j++;
 	}
 
 	cout<<"the sorted array"<<endl;

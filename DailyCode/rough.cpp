@@ -1,26 +1,18 @@
-#include<iostream>
-#include<string>
+#include<bits/stdc++.h>
+
 
 
 using namespace std;
 int main()
 {
-	int t;
-	cin>>t;
+	int t=5;
+	int r=2;
 	while (t--)
 	{
-		string input;
-
-		getline(cin,input);
-
-		int len = input.length();
-
-		
-
+		cout<<"this"<<endl;
 	}
+	cout<<t<<endl;
 	
-return 0;
+
+	return 0;
 }
-
-
-
