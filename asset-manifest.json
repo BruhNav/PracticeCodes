@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.4b0b624a.chunk.css",
-  "main.js": "/static/js/main.3b07058b.chunk.js",
-  "main.js.map": "/static/js/main.3b07058b.chunk.js.map",
-  "static/js/1.909e32bf.chunk.js": "/static/js/1.909e32bf.chunk.js",
-  "static/js/1.909e32bf.chunk.js.map": "/static/js/1.909e32bf.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.4b0b624a.chunk.css.map": "/static/css/main.4b0b624a.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.53276369834b00a6a12a7460ffeac04c.js": "/precache-manifest.53276369834b00a6a12a7460ffeac04c.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/PracticeCodes/static/css/main.4b0b624a.chunk.css",
+  "main.js": "/PracticeCodes/static/js/main.3b07058b.chunk.js",
+  "main.js.map": "/PracticeCodes/static/js/main.3b07058b.chunk.js.map",
+  "static/js/1.909e32bf.chunk.js": "/PracticeCodes/static/js/1.909e32bf.chunk.js",
+  "static/js/1.909e32bf.chunk.js.map": "/PracticeCodes/static/js/1.909e32bf.chunk.js.map",
+  "runtime~main.js": "/PracticeCodes/static/js/runtime~main.3dafd5b9.js",
+  "runtime~main.js.map": "/PracticeCodes/static/js/runtime~main.3dafd5b9.js.map",
+  "static/css/main.4b0b624a.chunk.css.map": "/PracticeCodes/static/css/main.4b0b624a.chunk.css.map",
+  "index.html": "/PracticeCodes/index.html",
+  "precache-manifest.736d0188699ff7c0fde8dccc21229269.js": "/PracticeCodes/precache-manifest.736d0188699ff7c0fde8dccc21229269.js",
+  "service-worker.js": "/PracticeCodes/service-worker.js"
 }
