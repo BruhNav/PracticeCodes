@@ -2,7 +2,7 @@
     "name": "pics",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://BruhNav.github.io/PracticeCodes/CodesByMe/React.js/pics",
+    "homepage": "https://BruhNav.github.io/PracticeCodes",
     "dependencies": {
         "-": "^0.0.1",
         "@testing-library/jest-dom": "^5.16.4",
